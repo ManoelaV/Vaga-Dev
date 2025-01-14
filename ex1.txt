@@ -1,0 +1,7 @@
+soma = 91
+
+
+inicialmente 
+indice = 13, soma = 0 e k = 1
+inicia o loop enquanto K for menor que indice 
+dentro do loop, k é incrementado em 1 e som é incrementada pelo valor de K
